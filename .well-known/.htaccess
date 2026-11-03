@@ -1,0 +1,4 @@
+# RFC 9727: serve the extensionless api-catalog file as a linkset
+<Files "api-catalog">
+    ForceType application/linkset+json
+</Files>
