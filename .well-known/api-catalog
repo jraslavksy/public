@@ -1,0 +1,19 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://jotsweb.com/wp-json/",
+      "service-desc": [
+        {
+          "href": "https://jotsweb.com/wp-json/",
+          "type": "application/json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://developer.wordpress.org/rest-api/",
+          "type": "text/html"
+        }
+      ]
+    }
+  ]
+}
